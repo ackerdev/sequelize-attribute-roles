@@ -1,0 +1,30 @@
+{
+  "name": "sequelize-attribute-roles",
+  "version": "0.0.1",
+  "description": "Attribute whitelisting/blacklisting with roles for Sequelize",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackerdev/sequelize-attribute-roles.git"
+  },
+  "keywords": [
+    "sequelize",
+    "acl",
+    "attributes",
+    "scoping",
+    "context",
+    "whitelisting"
+  ],
+  "author": "Nick Acker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ackerdev/sequelize-attribute-roles/issues"
+  },
+  "homepage": "https://github.com/ackerdev/sequelize-attribute-roles#readme",
+  "dependencies": {
+    "sequelize": ">=3.0.0"
+  }
+}
