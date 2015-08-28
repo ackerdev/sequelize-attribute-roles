@@ -20,13 +20,13 @@ You can enable guarding for all models of a Sequelize instance, or for individua
 
 # Caveats
 
-Currently, sequelize-attribute-roles only prevents the attributes from being retrieved and viewed, it does *NOT* prevent these attributes from being altered.
+Currently, sequelize-attribute-roles only prevents the attributes from being retrieved and viewed, it does **NOT** prevent these attributes from being altered.
 
 It does not currently prevent foreign key attributes from being retrieved.
 
 It does not support whitelisting yet, and will only hide attributes that have access control defined.
 
-To receive the benefits of attribute guarding, you *MUST* specify a role in your query options. Otherwise, all attributes will be allowed through.
+To receive the benefits of attribute guarding, you **MUST** specify a role in your query options. Otherwise, all attributes will be allowed through.
 
 # Usage
 
