@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ackerdev/sequelize-attribute-roles#readme",
   "dependencies": {
+    "lodash": "^4.17.4",
     "sequelize": ">=3.0.0"
   }
 }
