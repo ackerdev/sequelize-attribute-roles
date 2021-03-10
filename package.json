@@ -1,6 +1,6 @@
 {
   "name": "sequelize-attribute-roles",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Attribute whitelisting/blacklisting with roles for Sequelize",
   "main": "lib/index.js",
   "scripts": {
