@@ -2,7 +2,7 @@
 
 Attribute blacklisting with roles for Sequelize.
 
-Requires Sequelize `>=3.0.0`
+Requires Sequelize `>=5.0.0`
 
 Inspired by [ssacl-attribute-roles](https://github.com/mickhansen/ssacl-attribute-roles)
 
